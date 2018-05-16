@@ -415,6 +415,7 @@ body {
 	width:80px;
 }
 .layout_block {
+	height:165px;
 	background:#fff;
 	position:relative;
 	overflow-y:hidden;
